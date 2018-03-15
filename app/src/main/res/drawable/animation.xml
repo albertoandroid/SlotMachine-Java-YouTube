@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+
+    <item
+        android:duration="100"
+        android:drawable="@drawable/ic_avion"/>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/ic_barco"/>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/ic_bici"/>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/ic_camion"/>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/ic_tren"/>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/ic_avion"/>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/ic_barco"/>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/ic_bici"/>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/ic_camion"/>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/ic_tren"/>
+
+</animation-list>
